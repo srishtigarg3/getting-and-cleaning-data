@@ -1,4 +1,4 @@
-Getting and Cleaning Data Course Project
+#Getting and Cleaning Data Course Project
 
 This README file explains how run_analysis works
 First, unzip the data from the mentioned source https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip in the folder "data".
